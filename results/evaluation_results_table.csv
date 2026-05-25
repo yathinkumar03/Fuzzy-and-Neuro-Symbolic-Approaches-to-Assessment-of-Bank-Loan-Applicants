@@ -1,0 +1,5 @@
+Applicant Assessment,Accuracy FES,Accuracy NBES,Sensitivity FES,Sensitivity NBES,Specificity FES,Specificity NBES
+Bad,0.9,0.83,0.8,0.87,0.95,0.81
+Fair,0.73,0.76,0.6,0.6,0.8,0.85
+Good,0.86,0.86,0.8,0.83,0.85,0.88
+Average,0.83,0.82,0.73,0.77,0.87,0.85
